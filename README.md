@@ -1,11 +1,7 @@
-# Olá! 👋🏾
-Meu nome é Rayssa. Sou estudante de Ciência da Computação.
-
-## Interesses 👩🏾‍💻
-- Desenvolvimento de Software
-
+# 👩🏾‍💻 Rayssa Simões
+Olá! Me chamo Rayssa Simões, tenho 19 anos e sou natural do estado do Pará. Atualmente, estou cursando Ciência da Computação na UFOPA. Me apaixonei por tecnologia, especialmente pela área de Desenvolvimento de Software. No momento, estou estudando Desenvolvimento Web em cursos externos, como o PrograMaria, e também estou aprofundando Desenvolvimento de Software na parte web no Programa Desenvolve. Tenho interesse em explorar outras áreas além dessas.
 ---
-
+### 🤖 Estatísticas
 ![rayssasimoes's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayssasimoes&show_icons=true&theme=radical)
 [![rayssasimoes's GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssasimoes&langs_count=8&layout=compact&theme=radical)](https://github.com/rayssasimoes/github-readme-stats)
 
