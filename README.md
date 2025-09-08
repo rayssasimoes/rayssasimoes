@@ -14,4 +14,3 @@ Olá! Me chamo Rayssa Simões, tenho 19 anos e sou natural do estado do Pará. A
 ### 🤖 Estatísticas
 
 ![rayssasimoes's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayssasimoes&show_icons=true&theme=radical)
-[![rayssasimoes's GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssasimoes&langs_count=8&layout=compact&theme=radical)](https://github.com/rayssasimoes/github-readme-stats)
