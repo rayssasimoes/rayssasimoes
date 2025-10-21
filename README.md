@@ -1,5 +1,7 @@
 # 👩🏾‍💻 Rayssa Simões
 
+<div align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=florindorian.florindorian&right_color=limegreen&left_text=Profile%20Views"  /></div>
+
 **`Em formação como desenvolvedora`**
 
 Olá! Me chamo Rayssa Simões, tenho 19 anos e sou natural do estado do Pará. Atualmente, estou cursando Ciência da Computação na UFOPA. Me apaixonei por tecnologia, especialmente pela área de Desenvolvimento de Software. No momento, estou estudando Desenvolvimento Web em cursos externos, como o PrograMaria, e também estou aprofundando Desenvolvimento de Software na parte web no Programa Desenvolve. Tenho interesse em explorar outras áreas além dessas.
