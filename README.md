@@ -25,6 +25,6 @@
 
 ### 🛠️ Ferramentas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,vscode,git,figma,notion" alt="Ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=windows,vscode,git,docker,figma,notion" alt="Ferramentas"/>
 </a>
 </div>
