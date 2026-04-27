@@ -8,9 +8,9 @@
 
 ### 👩🏾‍💻 Sobre mim
 
-- 🎓 Cursando Ciência da Computação na UFOPA
-- 💻 Tenho interesse na área de desenvolvimento web (front-end e back-end)
-- 🤖 Aprendendo robôtica
+- 🎓 Cursando Ciência da Computação na UFOPA.
+- 💻 Tenho interesse na área de desenvolvimento web (front-end e back-end).
+- 🤖 Aprendendo robôtica.
 
 <br><br>
 
@@ -23,8 +23,9 @@
 
 <br>
 
-### 🛠️ Ferramentas
+### 🧰 Ferramentas
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=windows,vscode,git,docker,figma,notion" alt="Ferramentas"/>
 </a>
 </div>
+
