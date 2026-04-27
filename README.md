@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <img width="500" height="250" alt="Banner" src="https://github.com/user-attachments/assets/37e74742-f071-4c05-906a-a90a9c477ab9" />
+</div>
 
-<!--
-**rayssasimoes/rayssasimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img align="right" width="180" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩🏾‍💻 Sobre mim
+
+- 🎓 Cursando Ciência da Computação na UFOPA
+- 💻 Tenho interesse na área de desenvolvimento web (front-end e back-end)
+- 🤖 Aprendendo robôtica
+
+<br><br>
+
+<div align="center">
+
+### 🌐 Tecnologias
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,php,postgres,mongo" alt="Tecnologias"/>
+</a>
+
+<br>
+
+### 🛠️ Ferramentas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,vscode,git,figma,notion" alt="Ferramentas"/>
+</a>
+</div>
