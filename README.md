@@ -18,7 +18,7 @@
 
 ### 🌐 Tecnologias
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,php,postgres,mongo" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,python,php,postgres,mongo" alt="Tecnologias"/>
 </a>
 
 <br>
