@@ -18,14 +18,14 @@
 
 ### 🌐 Tecnologias
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,python,php,postgres,mongo" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,python,postgres,mongo" alt="Tecnologias"/>
 </a>
 
 <br>
 
 ### 🧰 Ferramentas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,vscode,git,docker,figma,notion" alt="Ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=windows,vscode,git,figma,notion" alt="Ferramentas"/>
 </a>
 </div>
 
