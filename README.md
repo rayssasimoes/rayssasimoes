@@ -10,7 +10,6 @@
 
 - 🎓 Cursando Ciência da Computação na UFOPA.
 - 💻 Tenho interesse na área de desenvolvimento web (front-end e back-end).
-- 🤖 Aprendendo robôtica.
 
 <br><br>
 
@@ -18,7 +17,7 @@
 
 ### 🌐 Tecnologias
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,python,postgres,mongo" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,postgres,mongo" alt="Tecnologias"/>
 </a>
 
 <br>
